@@ -1,0 +1,1 @@
+Simple UI for Elasticsearch indices status dashboard
